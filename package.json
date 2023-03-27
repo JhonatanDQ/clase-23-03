@@ -1,0 +1,14 @@
+{
+  "name": "clase-23-03",
+  "version": "1.0.0",
+  "description": "Clase Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
